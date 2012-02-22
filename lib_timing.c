@@ -14,7 +14,7 @@ void delayms(int t)
 {
  int n;
 
- for (n=0; n<t; n++) delay(100);
+ for (n=0; n<t; n++) delay(90);
 }
 
 
